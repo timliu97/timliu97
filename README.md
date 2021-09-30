@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timliu97
 - 👀 I’m interested in Fitness🏋 & Photographing📸 & Traveling🧳
-- 🎓 I'm an engineering studente in Networks&Telecommunications at University of Technology of Troyes🇫🇷
+- 🎓 I'm an engineering student in Networks&Telecommunications at University of Technology of Troyes🇫🇷
 - 🌱 I’m currently working on a payment App at Orange
 - 📫 How to reach me: qishu.liu@utt.fr
 
